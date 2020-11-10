@@ -1,6 +1,6 @@
+import cProfile
 import sys
 from datetime import datetime
-import cProfile
 
 a = []
 before = datetime.now()
